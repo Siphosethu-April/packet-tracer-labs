@@ -19,8 +19,10 @@
 
 ![Ping test]()
 ![ping VLAN 10](https://github.com/user-attachments/assets/7c8a54e6-cebd-400c-8ba5-91821de233f4)
+![ping VLAN 20](https://github.com/user-attachments/assets/d8a22079-62c4-4d83-b5f2-599fb7dcb145)
+![Ping ISP](https://github.com/user-attachments/assets/f1c2a4c9-9c30-4534-bb5b-01b05ceff73f)
 
-![ping VLAN 20](https://github.com/user-attachments/assets/fdcf175b-7f7a-42c6-bcb5-657ebd77fa26)
+
 
 
 ---
