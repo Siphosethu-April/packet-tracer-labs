@@ -18,6 +18,9 @@
 ## 🧪 Screenshots
 
 ![Ping test]()
+![ping VLAN 10](https://github.com/user-attachments/assets/7c8a54e6-cebd-400c-8ba5-91821de233f4)
+
+![ping VLAN 20](https://github.com/user-attachments/assets/fdcf175b-7f7a-42c6-bcb5-657ebd77fa26)
 
 
 ---
