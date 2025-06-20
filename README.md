@@ -15,7 +15,8 @@ This project simulates a real-world small office network using **Cisco Packet Tr
 
 ## 🛠 Topology
 
-![multiVlanInt](https://github.com/user-attachments/assets/2aee16f0-b7c4-486a-ac76-f1e35a207da5)
+![Topology](https://github.com/user-attachments/assets/59b3ac9f-aae7-492b-a504-a764972d06da)
+
 
 
 ---
