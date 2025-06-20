@@ -1,0 +1,47 @@
+
+---
+
+## 🚀 How to Use This
+
+1. Open `multi_vlan_internet.pkt` in Cisco Packet Tracer
+2. Apply the CLI configs to each device
+3. Power on all devices
+4. Set all PCs and the printer to **DHCP**
+5. Test the network:
+    - ✅ Inter-VLAN ping
+    - ✅ Printer reachability
+    - ✅ Ping external IP (e.g., `8.8.8.8`)
+6. (Optional) Add a server to simulate DNS/HTTP
+
+---
+
+## 🧪 Screenshots
+
+![Ping test]()
+
+
+---
+
+## 📚 What You’ll Learn
+
+- VLAN creation and segmentation
+- Trunking and access ports
+- Sub-interface configuration for router-on-a-stick
+- DHCP pool per VLAN
+- NAT for internet access
+- Static routing between networks
+
+---
+
+## 📦 Requirements
+
+- Cisco Packet Tracer 8.2 or later
+- Basic understanding of CLI
+
+---
+
+## 🧑‍💻 Author
+
+> Built by Siphosethu April as part of my network engineering practice.  
+> I'm actively seeking opportunities in networking, cybersecurity, and infrastructure.
+
